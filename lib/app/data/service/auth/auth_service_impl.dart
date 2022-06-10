@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:job_time/data/service/auth/auth_service.dart';
+import 'package:job_time/app/data/service/auth/auth_service.dart';
 
 class AuthServiceImpl implements AuthService {
   @override

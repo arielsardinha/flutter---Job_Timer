@@ -18,7 +18,9 @@ abstract class AppConfigUI {
   );
 
   static final ThemeData theme = ThemeData(
+    // useMaterial3: true,
     primarySwatch: _materialColor,
+    colorScheme: ColorScheme.fromSeed(seedColor: _materialColor),
     primaryColor: const Color(0xFF0066B0),
     primaryColorLight: const Color(0xFF219FFF),
     inputDecorationTheme: const InputDecorationTheme(
