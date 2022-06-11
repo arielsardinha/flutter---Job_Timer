@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:job_time/app/core/ui/job_time_icons.dart';
-import 'package:job_time/app/modules/project/register/widgets/project_detail_appbar.dart';
-import 'package:job_time/app/modules/project/register/widgets/project_pe_char.dart';
-import 'package:job_time/app/modules/project/register/widgets/project_task_tile.dart';
+import 'package:job_time/app/modules/project/detail/widgets/project_detail_appbar.dart';
+import 'package:job_time/app/modules/project/detail/widgets/project_pe_char.dart';
+import 'package:job_time/app/modules/project/detail/widgets/project_task_tile.dart';
 
 class ProjectDetailPage extends StatelessWidget {
   const ProjectDetailPage({Key? key}) : super(key: key);
