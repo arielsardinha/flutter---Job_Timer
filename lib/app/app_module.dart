@@ -9,7 +9,7 @@ import 'package:job_time/app/data/service/projects/project_service.dart';
 import 'package:job_time/app/data/service/projects/project_service_impl.dart';
 import 'package:job_time/app/modules/home/home_module.dart';
 import 'package:job_time/app/modules/login/login_module.dart';
-import 'package:job_time/app/modules/project/register/project_module.dart';
+import 'package:job_time/app/modules/project/project_module.dart';
 import 'package:job_time/app/modules/splash/splash_page.dart';
 
 class AppModule extends Module {
